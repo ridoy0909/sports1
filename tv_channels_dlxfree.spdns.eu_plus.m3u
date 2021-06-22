@@ -29,6 +29,18 @@ http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/13
 http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/14
 #EXTINF:-1 tvg-id="" tvg-name="FR | Nat Geo HD" tvg-logo="" group-title="General TV HD",FR | Nat Geo HD
 http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/15
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY Ten 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="HINDI",IN: SONY Ten 1 HD
+http://cobraa.in:8000/265262552526/CkSas5bDKK/98855
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY Ten 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="HINDI",IN: SONY Ten 2 HD
+http://cobraa.in:8000/265262552526/CkSas5bDKK/98856
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY Ten 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="HINDI",IN: SONY Ten 3 HD
+http://cobraa.in:8000/265262552526/CkSas5bDKK/98857
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" group-title="HINDI",IN: SONY SIX HD
+http://cobraa.in:8000/265262552526/CkSas5bDKK/98854
+#EXTINF:-1 tvg-id="" tvg-name="OSN WWE Network HD" tvg-logo="http://zubair.dyndns.tv/logo2/OSN%20WWE%20Network%20HD.jpg" group-title="OSN",OSN WWE Network HD
+http://cobraa.in:8000/265262552526/CkSas5bDKK/2417
+#EXTINF:-1 tvg-id="" tvg-name="OSN WWE Network HD+" tvg-logo="http://zubair.dyndns.tv/logo2/OSN%20WWE%20Network%20HD+.jpg" group-title="OSN",OSN WWE Network HD+
+http://cobraa.in:8000/265262552526/CkSas5bDKK/2483
 #EXTINF:-1 tvg-id="" tvg-name="SP | Al Kass Sports 2 HD" tvg-logo="" group-title="Sports TV HD",SP | Al Kass Sports 2 HD
 http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/16
 #EXTINF:-1 tvg-id="" tvg-name="SP | Al Kass Sports 1 HD" tvg-logo="" group-title="Sports TV HD",SP | Al Kass Sports 1 HD
